@@ -13,11 +13,11 @@ import { EffectCoverflow, Pagination } from "swiper";
 
 const TopCategories = () => {
     return (
-        <div className=" my-32 bg-[#1984e910] py-32">
-            <div className="md:flex max-w-7xl mx-auto ">
+        <div className=" my-32 bg-[#1984e910] py-20 md:py-32">
+            <div className="md:flex max-w-7xl mx-auto px-1 md:px-0 ">
                 <div>
-                    <h1 className="md:text-5xl font-semibold text-gray-800 mb-5 ">Top Categories</h1>
-                    <p className="text-gray-500">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <h1 className="text-3xl text-center md:text-left md:text-5xl font-semibold text-gray-800 mb-5 ">Top Categories</h1>
+                    <p className="text-center md:text-left text-gray-500">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                 </div>
                 <div className="md:w-[50%] mt-2">
                     <Swiper

@@ -3,6 +3,7 @@ import Banner from '../Banner/Banner';
 import Motivated from '../HomeComponents/Motivated';
 import CourseKit from '../HomeComponents/CourseKit';
 import TopCategories from '../HomeComponents/TopCategories';
+import TopCourse from '../HomeComponents/TopCourse';
 
 const Home = () => {
     return (
@@ -11,6 +12,7 @@ const Home = () => {
             <Motivated></Motivated>
             <CourseKit></CourseKit>
             <TopCategories></TopCategories>
+            <TopCourse></TopCourse>
         </div>
     );
 };

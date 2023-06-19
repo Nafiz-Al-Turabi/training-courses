@@ -9,7 +9,7 @@ const Banner = () => {
                 <button className='text-lg text-white font-semibold uppercase bg-gradient-to-l to-[#0f8]  from-[#fe5e5e]  py-3 px-8 rounded-r-full border border-green-400
                 hover:bg-none duration-500 ease-in-out hover:text-gray-700 '>Search</button>
             </div>
-            <div class="flex justify-center">
+            <div className="flex justify-center">
                 <img src="https://i.ibb.co/Hn7V3nd/header-search.webp" alt="" />
             </div>
         </div>
