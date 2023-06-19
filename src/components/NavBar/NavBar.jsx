@@ -70,8 +70,8 @@ const NavBar = () => {
                         <div className="ml-4 flex items-center md:ml-6">
                             <a href="#" className="text-gray-600 hover:text-green-500 duration-500 px-3 py-2 rounded-md text-lg font-medium">Login </a>
                             <div className="ml-3">
-                                <a href="#" className="text-lg rounded-full border border-green-500  hover:bg-gradient-to-l
-                                 to-[#0f8]  from-[#fe5e5e] duration-500  hover:text-white py-2 px-5 uppercase" >Buy Course </a>
+                                <button  className="text-lg rounded-full border-b-2 border-green-500  hover:bg-gradient-to-l
+                                 to-[#0f8]  from-[#fe5e5e] duration-300  hover:text-white active:scale-95 py-2 px-5 uppercase" >Buy Course </button>
                             </div>
                         </div>
                     </div>

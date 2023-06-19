@@ -9,7 +9,7 @@ const Motivated = () => {
                 </div>
                 <div className='ml-5'>
                     <h1 className='text-lg mb-4 text-gray-800 hover:text-cyan-500 duration-500'>Learn From The Experts</h1>
-                    <p className='text-gray-600'>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+                    <p className='text-gray-500'>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
                 </div>
             </div>
             <div className='flex items-center ml-10'>
@@ -18,7 +18,7 @@ const Motivated = () => {
                 </div>
                 <div className='ml-5'>
                     <h1 className='text-lg mb-4 text-gray-800 hover:text-cyan-500 duration-500'>Book Library & Store</h1>
-                    <p className='text-gray-600'>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+                    <p className='text-gray-500'>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
                 </div>
             </div>
             <div className='flex items-center ml-10'>
@@ -27,7 +27,7 @@ const Motivated = () => {
                 </div>
                 <div className='ml-5'>
                     <h1 className='text-lg mb-4 text-gray-800 hover:text-cyan-500 duration-500'>Online Education</h1>
-                    <p className='text-gray-600'>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+                    <p className='text-gray-500'>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
                 </div>
             </div>
            
